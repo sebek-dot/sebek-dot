@@ -37,9 +37,3 @@ Mój własny asystent AI napisany w Pythonie, korzystający z Groq API.
 - ✉️ E-mail: [sebastianjozko2@gmail.com](mailto:sebastianjozko2@gmail.com)
 
 ---
-
-<div align="center">
-
-*Zbudowane z 💙 i odrobiną kawy*
-
-</div>
