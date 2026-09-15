@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sebek-dot/sebek-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cześć, jestem Sebastian! 👋
 
-Here are some ideas to get you started:
+### Frontend developer & Python enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Piszę czyste, czytelne i po prostu działające aplikacje. Uczę się, eksperymentuję i buduję rzeczy, które mnie ciekawią.
+
+</div>
+
+---
+
+## 🧑‍💻 O mnie
+
+- 💻 Buduję strony i aplikacje od frontu — HTML, CSS, JavaScript
+- 🐍 Python to moja druga natura — automatyzacja, skrypty, AI
+- 🤖 Twórca **Luxion** — własnego asystenta AI
+- 🎯 Cel: tworzyć oprogramowanie, które realnie pomaga ludziom
+
+## ⚙️ Technologie
+
+| Kategoria    | Technologie                  |
+| ------------ | ---------------------------- |
+| Frontend     | HTML, CSS, JavaScript        |
+| Backend      | Python                       |
+| Narzędzia    | Git, GitHub, API             |
+
+## 🚀 Moje projekty
+
+### [Luxion](https://github.com/sebek-dot/Luxion)
+Mój własny asystent AI napisany w Pythonie, korzystający z Groq API.
+
+> Więcej projektów pojawi się wkrótce — zostań na radarze! 📡
+
+## 📫 Kontakt
+
+- ✉️ E-mail: [sebastianjozko2@gmail.com](mailto:sebastianjozko2@gmail.com)
+
+---
+
+<div align="center">
+
+*Zbudowane z 💙 i odrobiną kawy*
+
+</div>
